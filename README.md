@@ -44,7 +44,7 @@ En mis repositorios comparto dos proyectos que he realizado en mis formaciones d
 
 ## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile_Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([Your_LinkedIn_Profile_Link](https://www.linkedin.com/in/ver%C3%B3nica-v-2b00b91b2/))
 
 ---
 
