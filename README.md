@@ -24,7 +24,7 @@ Siempre he sido una persona curiosa y con ganas de aprender cosas nuevas. El mun
 
 Estoy dispuesta a trabajar duro y aprender de los demás. Estoy segura de que puedo aportar un valor añadido a cualquier equipo.
 
-En mis repositorios comparto dos proyectos que he realizado en mis formaciones de Excel avanzado y de Data Science, aplicando las librerías de Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn entre otras y modelos de aprendizaje supervisado de clasificación.
+En mis repositorios comparto dos proyectos que realicé en mis formaciones de Excel avanzado y de Data Science, aplicando las librerías de Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn entre otras y modelos de aprendizaje supervisado de clasificación.
 
 ## 🛠 Tech Stack:
 
